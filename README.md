@@ -34,7 +34,7 @@ In the last class, we will go through the examples and use cases of network mode
 
 ## Homework
 
-To be announced in the future.
+### [Homework 1](https://github.com/shhong/a310_cns_2023/tree/main/homework_1/homework_1.ipynb) — Febraury 27, 2022
 
 ---
 _Written by Sungho Hong, Computational Neuroscience Unit, Okinawa Institutes of Science and Technology_
